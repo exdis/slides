@@ -1,3 +1,6 @@
+* **Software Analytics in frontend** *(rus)*<br>
+CodeFest, Novosibirsk 30.05.2021
+([slides](https://github.com/exdis/slides/raw/master/SA-codefest.pdf))
 * **Blood, sweat, microfrontends and monolith** *(rus)*<br>
 Dump, Kazan 08.11.2019
 ([slides](https://github.com/exdis/slides/raw/master/AvitoMicrofrontend.pdf), [video](https://www.youtube.com/watch?v=k6cZVQcu3Qk))
